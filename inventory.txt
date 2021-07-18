@@ -1,0 +1,23 @@
+2
+Car
+parking
+87
+true
+600000
+05/03/2021
+honda
+red color
+
+Cycle
+Garden
+2
+true
+3000
+07/08/2021
+aa
+h
+
+3
+Garden
+
+parking
